@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "equalizer",
+    "slug": "equalizer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "equalizer"
+}
